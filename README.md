@@ -1,8 +1,6 @@
 # R-Jupyter-notebook-setup
 
-## Phil Wilmarth
-## PSR Core, OHSU
-## August 29, 2021
+## Phil Wilmarth <br> PSR Core, OHSU <br> August 29, 2021
 
 ---
 
