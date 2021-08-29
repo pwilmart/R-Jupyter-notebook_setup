@@ -4,7 +4,7 @@
 
 ---
 
-A walk through of my preferred way to add an R kernel to Jupyter notebooks for proteomics data analysis work. There are many different ways to do this. Most are geared towards folks who live in programming development environments. What I am outlining is more for the folks who spend more time generating data than analyzing data.
+A walk through of my preferred way to add an R kernel to Jupyter notebooks for proteomics data analysis work. There are many different ways to do this. Most are geared towards folks who live in programming development environments. What I am outlining is for the folks who spend more time generating data than analyzing data.
 
 ---
 
