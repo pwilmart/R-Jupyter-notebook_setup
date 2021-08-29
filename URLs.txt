@@ -1,0 +1,17 @@
+Links for Jupyter notebooks with R
+
+Anaconda Individual Edition
+https://www.anaconda.com/products/individual
+
+R for Windows
+https://cran.r-project.org/bin/windows/base/
+
+RStudio
+https://www.rstudio.com/products/rstudio/
+https://www.rstudio.com/products/rstudio/download/#download
+
+IRKernel
+https://irkernel.github.io/installation/
+
+Bioconductor
+https://www.bioconductor.org/install/
